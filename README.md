@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-I am learning. It going swell.
+I am learning. It is going swell.
